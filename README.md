@@ -2,10 +2,11 @@
 本研究では、RTK測位を用いた自律走行教材用マイコンカーの開発を目指しています。このレポジトリではマイコンカーの走行に必要なプログラムソースを保管しています。
 
 # Research Outline
-下の図が本研究で目指す自律走行(autonomous driving)の概要になります。RTK測位とはGPSのような位置測位技術のことです。GPSよりも高精度（ GPSは数[m]、RTK測位では数[cm]）で位置情報を取得出来るのがRTK測位の特長です。<br><br> 
-![research_outline](https://github.com/TomokiIkegami/RTK_autonomous_car/blob/master/images/research_outline.svg)
+下の図が本研究で目指す自律走行(autonomous driving)の概要になります。RTK測位とはGPSのような位置測位技術のことです。GPSよりも高精度（ GPSは数[m]、RTK測位では数[cm]）で位置情報を取得出来るのがRTK測位の特長です。
 
 私たちはRTK測位を用いて、直線経路上を自律走行するマイコンカーを開発しています。
+
+![research_outline](https://github.com/TomokiIkegami/RTK_autonomous_car/blob/master/images/research_outline.svg)
 
 # What is "RTK daisha" ?
 "RTK台車(daisha)" は私たち研究チームが開発している自律走行マイコンカーの名前です。<br>
