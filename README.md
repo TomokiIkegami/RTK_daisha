@@ -14,6 +14,7 @@ RTK台車には自律走行に必要なセンサとして、RTK用アンテナ(a
 
 
 この2つのセンサ情報を用いることで、直線経路の自律走行を実現します。RTKアンテナから経路からのずれ量（lateral distance）を、電子コンパスから車体角度(angle difference)を計算します。（下図参照）
+
 ![what_is_distance_and_angle](https://github.com/TomokiIkegami/RTK_autonomous_car/blob/master/images/what_is_distance_and_angle.svg)
 
 # Installation & Usage
