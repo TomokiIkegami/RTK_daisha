@@ -26,4 +26,4 @@ RTK台車のセットアップ方法や動かし方については、以下の�
 
 # Author
 * Tomoki Ikegami, Wataru Hasebe <br>
-National Institute of Technology, Asahikawa Collage
+National Institute of Technology, Asahikawa Collage (graduated in 2022)
